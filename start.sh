@@ -1,4 +1,4 @@
-export NEWSHIGHLIGHT_API_KEY=b1ac2eb24f46492886002bfae765acb0
-export SECRET_KEY=1234
+export NEWSHIGHLIGHT_API_KEY='500243cea14e432f9784ce64bc5b46bf'
+export SECRET_KEY='1234'
 
 python3.6 manage.py server
